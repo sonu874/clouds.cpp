@@ -3,7 +3,7 @@
 
 #include<iostream>
 using namespace std;
- int func_1(int n,int l){
+int func_1(int n,int l){
  	int s=n;
  	s=s+1;
  	if(s>l){
